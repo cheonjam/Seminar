@@ -1,0 +1,9 @@
+ab	 : ernkernl
+abc	 : dfnkelr
+aoa	 : enrkle
+bab	 : 2kelr
+bbb	 : qernklewrkl
+cbd	 : nekler
+dba	 : ernkelr
+efk	 : ekrl
+zzz	 : enrkler

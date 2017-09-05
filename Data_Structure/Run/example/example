@@ -1,0 +1,3 @@
+hexdump a_encoding > a
+hexdump encfile > b
+diff a b
