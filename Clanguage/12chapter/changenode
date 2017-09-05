@@ -1,0 +1,41 @@
+void changenode()
+{
+	struct node *tmp, *a, *a_prev, *b, *b_prev;
+
+	for(a=head;a->next;a=a->next)
+	{
+		for(b=a->next;b->next;b=b->next)
+		{
+			tmp=a->next;
+			a->next=b->next;
+			b->next=tmp;		// a->next  <->  b->next
+
+			tmp=a;
+			a=b;
+			b=tmp;				//a  <->  b
+
+			if(b==head)			// b_prev->next = b;
+			{
+				b_prev->next=b;
+				head=a;
+			}
+			else				// a_prev->next <-> b_prev->next
+			{
+				tmp=a_prev->next;
+				a_prev->next=b_prev->next;
+				b_prev->next=tmp;
+			}
+		}
+	}
+}
+
+void change(struct node *prev, *next)
+{
+	struct node *tmp;
+
+	tmp=prev;
+	prev=next;
+	next=prev;
+}
+
+	

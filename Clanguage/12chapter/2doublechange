@@ -1,0 +1,41 @@
+void doublechange(struct node *a,struct node *b)
+{
+	struct node *tmp;
+	
+	if(a->prev==NULL)
+	{
+		b->next->prev=a;
+		head=b;
+	}
+	else if(b->next==NULL)
+		a->prev->next=b;	
+	else
+	{	
+		a->prev->next=b;
+		b->next->prev=a;
+	}
+
+	if(a->next==b)
+	{
+		tmp=a->next;
+		a->next=b->next;
+		b->next=b->prev;
+		b->prev=a->prev;
+		a->prev=tmp;
+	}
+	else
+	{
+		a->next->prev=b;
+		b->prev->next=a;
+
+		tmp=a->next;
+		a->next=b->next;
+		b->next=tmp;
+
+		tmp=a->prev;
+		a->prev=b->prev;
+		b->prev=tmp;
+	}
+}
+	
+
