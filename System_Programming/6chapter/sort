@@ -1,0 +1,208 @@
+UID        PID  PPID  C STIME TTY          TIME CMD
+root         1     0  0  5월09 ?      00:00:09 /sbin/init splash
+root         2     0  0  5월09 ?      00:00:00 [kthreadd]
+root         3     2  0  5월09 ?      00:00:00 [ksoftirqd/0]
+root         5     2  0  5월09 ?      00:00:00 [kworker/0:0H]
+root         7     2  0  5월09 ?      00:02:26 [rcu_sched]
+root         8     2  0  5월09 ?      00:00:00 [rcu_bh]
+root         9     2  0  5월09 ?      00:00:00 [migration/0]
+root        10     2  0  5월09 ?      00:00:00 [watchdog/0]
+root        11     2  0  5월09 ?      00:00:00 [watchdog/1]
+root        12     2  0  5월09 ?      00:00:00 [migration/1]
+root        13     2  0  5월09 ?      00:00:01 [ksoftirqd/1]
+root        15     2  0  5월09 ?      00:00:00 [kworker/1:0H]
+root        16     2  0  5월09 ?      00:00:00 [watchdog/2]
+root        17     2  0  5월09 ?      00:00:00 [migration/2]
+root        18     2  0  5월09 ?      00:00:00 [ksoftirqd/2]
+root        20     2  0  5월09 ?      00:00:00 [kworker/2:0H]
+root        21     2  0  5월09 ?      00:00:00 [watchdog/3]
+root        22     2  0  5월09 ?      00:00:00 [migration/3]
+root        23     2  0  5월09 ?      00:00:00 [ksoftirqd/3]
+root        25     2  0  5월09 ?      00:00:00 [kworker/3:0H]
+root        26     2  0  5월09 ?      00:00:00 [kdevtmpfs]
+root        27     2  0  5월09 ?      00:00:00 [netns]
+root        28     2  0  5월09 ?      00:00:00 [perf]
+root        29     2  0  5월09 ?      00:00:00 [khungtaskd]
+root        30     2  0  5월09 ?      00:00:00 [writeback]
+root        31     2  0  5월09 ?      00:00:00 [ksmd]
+root        32     2  0  5월09 ?      00:00:01 [khugepaged]
+root        33     2  0  5월09 ?      00:00:00 [crypto]
+root        34     2  0  5월09 ?      00:00:00 [kintegrityd]
+root        35     2  0  5월09 ?      00:00:00 [bioset]
+root        36     2  0  5월09 ?      00:00:00 [kblockd]
+root        37     2  0  5월09 ?      00:00:00 [ata_sff]
+root        38     2  0  5월09 ?      00:00:00 [md]
+root        39     2  0  5월09 ?      00:00:00 [devfreq_wq]
+root        45     2  0  5월09 ?      00:00:00 [kswapd0]
+root        46     2  0  5월09 ?      00:00:00 [vmstat]
+root        47     2  0  5월09 ?      00:00:00 [fsnotify_mark]
+root        48     2  0  5월09 ?      00:00:00 [ecryptfs-kthrea]
+root        64     2  0  5월09 ?      00:00:00 [kthrotld]
+root        65     2  0  5월09 ?      00:00:00 [acpi_thermal_pm]
+root        66     2  0  5월09 ?      00:00:00 [bioset]
+root        67     2  0  5월09 ?      00:00:00 [bioset]
+root        68     2  0  5월09 ?      00:00:00 [bioset]
+root        69     2  0  5월09 ?      00:00:00 [bioset]
+root        70     2  0  5월09 ?      00:00:00 [bioset]
+root        71     2  0  5월09 ?      00:00:00 [bioset]
+root        72     2  0  5월09 ?      00:00:00 [bioset]
+root        73     2  0  5월09 ?      00:00:00 [bioset]
+root        74     2  0  5월09 ?      00:00:00 [scsi_eh_0]
+root        75     2  0  5월09 ?      00:00:00 [scsi_tmf_0]
+root        76     2  0  5월09 ?      00:00:00 [scsi_eh_1]
+root        77     2  0  5월09 ?      00:00:00 [scsi_tmf_1]
+root        79     2  0  5월09 ?      00:00:00 [scsi_eh_2]
+root        80     2  0  5월09 ?      00:00:00 [scsi_tmf_2]
+root        81     2  0  5월09 ?      00:00:00 [scsi_eh_3]
+root        82     2  0  5월09 ?      00:00:00 [scsi_tmf_3]
+root        89     2  0  5월09 ?      00:00:00 [ipv6_addrconf]
+root       102     2  0  5월09 ?      00:00:00 [deferwq]
+root       103     2  0  5월09 ?      00:00:00 [charger_manager]
+root       107     2  0  5월09 ?      00:00:00 [bioset]
+root       148     2  0  5월09 ?      00:00:00 [kpsmoused]
+root       158     2  0  5월09 ?      00:00:00 [kdmflush]
+root       160     2  0  5월09 ?      00:00:00 [bioset]
+root       171     2  0  5월09 ?      00:00:00 [kworker/3:1H]
+root       185     2  0  5월09 ?      00:00:00 [kworker/0:1H]
+root       189     2  0  5월09 ?      00:00:00 [kworker/1:1H]
+root       190     2  0  5월09 ?      00:00:08 [jbd2/dm-0-8]
+root       191     2  0  5월09 ?      00:00:00 [ext4-rsv-conver]
+root       224     2  0  5월09 ?      00:00:00 [kauditd]
+root       233     1  0  5월09 ?      00:00:37 /lib/systemd/systemd-journald
+root       264     1  0  5월09 ?      00:00:00 /sbin/lvmetad -f
+root       274     1  0  5월09 ?      00:00:00 /lib/systemd/systemd-udevd
+root       289     2  0  5월09 ?      00:00:03 [kworker/2:1H]
+root       418     2  0  5월09 ?      00:00:00 [edac-poller]
+root       422     2  0  5월09 ?      00:00:00 [irq/30-mei_me]
+root       509     2  0  5월09 ?      00:00:00 [kvm-irqfd-clean]
+root       534     2  0  5월09 ?      00:00:00 [led_workqueue]
+root       600     2  0  5월09 ?      00:00:00 [kdmflush]
+root       601     2  0  5월09 ?      00:00:00 [bioset]
+root       615     2  0  5월09 ?      00:00:00 [ext4-rsv-conver]
+systemd+   672     1  0  5월09 ?      00:00:00 /lib/systemd/systemd-timesyncd
+root       815     1  0  5월09 ?      00:00:00 /usr/sbin/cron -f
+avahi      817     1  0  5월09 ?      00:00:04 avahi-daemon: running [network-41.local]
+root       821     1  0  5월09 ?      00:00:17 /usr/lib/accountsservice/accounts-daemon
+whoopsie   822     1  0  5월09 ?      00:00:00 /usr/bin/whoopsie -f
+root       825     1  0  5월09 ?      00:00:10 /usr/sbin/thermald --no-daemon --dbus-enable
+root       830     1  0  5월09 ?      00:00:00 /lib/systemd/systemd-logind
+root       851     1  0  5월09 ?      00:00:00 /usr/sbin/acpid
+syslog     858     1  0  5월09 ?      00:00:17 /usr/sbin/rsyslogd -n
+root       868     1  0  5월09 ?      00:00:11 /usr/lib/snapd/snapd
+message+   876     1  0  5월09 ?      00:00:07 /usr/bin/dbus-daemon --system --address=systemd: --nofork --nopidfile --systemd-activation
+avahi      908   817  0  5월09 ?      00:00:00 avahi-daemon: chroot helper
+root      1010     1  0  5월09 ?      00:00:01 /usr/sbin/NetworkManager --no-daemon
+root      1011     1  0  5월09 ?      00:00:00 /usr/sbin/ModemManager
+root      1110     1  0  5월09 ?      00:00:00 /usr/sbin/lightdm
+root      1127     1  0  5월09 ?      00:00:07 /usr/sbin/irqbalance --pid=/var/run/irqbalance.pid
+root      1162     1  0  5월09 ?      00:00:05 /usr/lib/policykit-1/polkitd --no-debug
+root      1179  1110  0  5월09 tty7   00:01:18 /usr/lib/xorg/Xorg -core :0 -seat seat0 -auth /var/run/lightdm/root/:0 -nolisten tcp vt7 -novtswitch
+root      1186     1  0  5월09 ?      00:00:05 /usr/sbin/sshd -D
+root      1246     1  0  5월09 tty1   00:00:00 /sbin/agetty --noclear tty1 linux
+xrdp      1255     1  0  5월09 ?      00:00:00 /usr/sbin/xrdp
+root      1257     1  0  5월09 ?      00:00:00 /usr/sbin/xrdp-sesman
+root      1330     1  0  5월09 ?      00:00:02 /usr/sbin/nmbd -D
+root      1349     1  0  5월09 ?      00:00:01 /usr/sbin/smbd -D
+root      1353  1349  0  5월09 ?      00:00:00 /usr/sbin/smbd -D
+root      1355  1349  0  5월09 ?      00:00:00 /usr/sbin/smbd -D
+rtkit     1392     1  0  5월09 ?      00:00:02 /usr/lib/rtkit/rtkit-daemon
+root      1455     1  0  5월09 ?      00:00:00 /usr/lib/upower/upowerd
+colord    1503     1  0  5월09 ?      00:00:00 /usr/lib/colord/colord
+root      1606  1110  0  5월10 ?      00:00:00 lightdm --session-child 12 19
+network   1628     1  0  5월10 ?      00:00:00 /lib/systemd/systemd --user
+network   1629  1628  0  5월10 ?      00:00:00 (sd-pam)
+network   1635     1  0  5월10 ?      00:00:00 /usr/bin/gnome-keyring-daemon --daemonize --login
+network   1637  1606  0  5월10 ?      00:00:00 /sbin/upstart --user
+network   1724  1637  0  5월10 ?      00:00:00 upstart-udev-bridge --daemon --user
+network   1725  1637  0  5월10 ?      00:00:04 dbus-daemon --fork --session --address=unix:abstract=/tmp/dbus-SVFF7kXOqi
+network   1737  1637  0  5월10 ?      00:00:00 /usr/lib/x86_64-linux-gnu/hud/window-stack-bridge
+network   1769  1637  0  5월10 ?      00:00:01 upstart-dbus-bridge --daemon --session --user --bus-name session
+network   1771  1637  0  5월10 ?      00:00:00 upstart-dbus-bridge --daemon --system --user --bus-name system
+network   1775  1637  0  5월10 ?      00:00:00 upstart-file-bridge --daemon --user
+network   1785  1637  0  5월10 ?      00:00:00 /usr/bin/fcitx
+network   1790  1637  0  5월10 ?      00:00:06 gpg-agent --homedir /home/network/.gnupg --use-standard-socket --daemon
+network   1802  1637  0  5월10 ?      00:00:00 /usr/bin/dbus-daemon --fork --print-pid 5 --print-address 7 --config-file /usr/share/fcitx/dbus/daemon.conf
+network   1803  1637  0  5월10 ?      00:00:00 /usr/lib/x86_64-linux-gnu/bamf/bamfdaemon
+network   1807  1637  0  5월10 ?      00:00:00 /usr/bin/fcitx-dbus-watcher unix:abstract=/tmp/dbus-o2PpINyBP3,guid=84d93e2e19fdd5ded9c36c735911d991 1802
+network   1812  1637  0  5월10 ?      00:00:00 /usr/lib/at-spi2-core/at-spi-bus-launcher
+network   1817  1812  0  5월10 ?      00:00:00 /usr/bin/dbus-daemon --config-file=/etc/at-spi2/accessibility.conf --nofork --print-address 3
+network   1820  1637  0  5월10 ?      00:00:00 /usr/lib/at-spi2-core/at-spi2-registryd --use-gnome-session
+network   1822  1637  0  5월10 ?      00:00:00 /usr/lib/gvfs/gvfsd
+network   1829  1637  0  5월10 ?      00:00:00 /usr/lib/gvfs/gvfsd-fuse /run/user/1000/gvfs -f -o big_writes
+network   1846  1637  0  5월10 ?      00:00:00 /usr/lib/x86_64-linux-gnu/hud/hud-service
+network   1848  1637  0  5월10 ?      00:00:05 /usr/lib/unity-settings-daemon/unity-settings-daemon
+network   1859  1637  0  5월10 ?      00:00:00 /usr/lib/gnome-session/gnome-session-binary --session=ubuntu
+network   1863  1637  0  5월10 ?      00:00:09 /usr/lib/x86_64-linux-gnu/unity/unity-panel-service
+network   1886  1637  0  5월10 ?      00:00:00 /usr/lib/x86_64-linux-gnu/indicator-messages/indicator-messages-service
+network   1887  1637  0  5월10 ?      00:00:00 /usr/lib/x86_64-linux-gnu/indicator-bluetooth/indicator-bluetooth-service
+network   1888  1637  0  5월10 ?      00:00:00 /usr/lib/x86_64-linux-gnu/indicator-power/indicator-power-service
+network   1891  1637  0  5월10 ?      00:00:03 /usr/lib/x86_64-linux-gnu/indicator-datetime/indicator-datetime-service
+network   1893  1637  0  5월10 ?      00:00:00 /usr/lib/x86_64-linux-gnu/indicator-keyboard/indicator-keyboard-service --use-gtk
+network   1894  1637  0  5월10 ?      00:00:00 /usr/lib/x86_64-linux-gnu/indicator-sound/indicator-sound-service
+network   1895  1637  0  5월10 ?      00:00:00 /usr/lib/x86_64-linux-gnu/indicator-printers/indicator-printers-service
+network   1896  1637  0  5월10 ?      00:00:01 /usr/lib/x86_64-linux-gnu/indicator-session/indicator-session-service
+network   1938  1637  0  5월10 ?      00:00:00 /usr/lib/evolution/evolution-source-registry
+network   1939  1637  0  5월10 ?      00:00:00 /usr/lib/x86_64-linux-gnu/indicator-application/indicator-application-service
+network   1942  1637  0  5월10 ?      00:00:00 /usr/bin/pulseaudio --start --log-target=syslog
+network   1963  1637  0  5월10 ?      00:00:00 /usr/lib/dconf/dconf-service
+network   1970  1637  0  5월10 ?      00:00:00 /usr/lib/x86_64-linux-gnu/notify-osd
+network   1976  1637  0  5월10 ?      00:07:38 compiz
+network   1991  1859  0  5월10 ?      00:00:00 /usr/lib/unity-settings-daemon/unity-fallback-mount-helper
+network   1992  1859  0  5월10 ?      00:00:05 /usr/bin/gnome-software --gapplication-service
+network   1997  1859  0  5월10 ?      00:00:00 /usr/lib/policykit-1-gnome/polkit-gnome-authentication-agent-1
+network   1998  1859  0  5월10 ?      00:00:00 nm-applet
+network   2008  1859  0  5월10 ?      00:00:00 nautilus -n
+network   2018  1637  0  5월10 ?      00:00:00 /usr/lib/gvfs/gvfs-udisks2-volume-monitor
+root      2024     1  0  5월10 ?      00:00:38 /usr/lib/udisks2/udisksd --no-debug
+network   2034  1637  0  5월10 ?      00:00:00 /usr/lib/gvfs/gvfs-gphoto2-volume-monitor
+network   2036  1637  0  5월10 ?      00:00:00 /usr/lib/evolution/evolution-calendar-factory
+network   2054  1637  0  5월10 ?      00:00:00 /usr/lib/gvfs/gvfs-goa-volume-monitor
+network   2062  1637  0  5월10 ?      00:00:00 /usr/lib/gvfs/gvfs-afc-volume-monitor
+network   2068  1637  0  5월10 ?      00:00:00 /usr/lib/gvfs/gvfs-mtp-volume-monitor
+root      2076     1  0  5월10 ?      00:00:01 /usr/lib/x86_64-linux-gnu/fwupd/fwupd
+network   2080  1637  0  5월10 ?      00:00:00 /usr/lib/gvfs/gvfsd-trash --spawner :1.8 /org/gtk/gvfs/exec_spaw/0
+network   2093  2036  0  5월10 ?      00:00:00 /usr/lib/evolution/evolution-calendar-factory-subprocess --factory local --bus-name org.gnome.evolution.dataserver.Subprocess.Backend.Calendarx2036x2 --own-path /org/gnome/evolution/dataserver/Subprocess/Backend/Calendar/2036/2
+network   2102  2036  0  5월10 ?      00:00:00 /usr/lib/evolution/evolution-calendar-factory-subprocess --factory contacts --bus-name org.gnome.evolution.dataserver.Subprocess.Backend.Calendarx2036x3 --own-path /org/gnome/evolution/dataserver/Subprocess/Backend/Calendar/2036/3
+network   2112  1637  0  5월10 ?      00:00:00 /usr/lib/evolution/evolution-addressbook-factory
+network   2130  2112  0  5월10 ?      00:00:00 /usr/lib/evolution/evolution-addressbook-factory-subprocess --factory local --bus-name org.gnome.evolution.dataserver.Subprocess.Backend.AddressBookx2112x2 --own-path /org/gnome/evolution/dataserver/Subprocess/Backend/AddressBook/2112/2
+network   2185  1637  0  5월10 ?      00:00:00 /usr/lib/x86_64-linux-gnu/unity-scope-home/unity-scope-home
+network   2195  1637  0  5월10 ?      00:00:04 /usr/bin/unity-scope-loader applications/applications.scope applications/scopes.scope commands.scope
+network   2197  1637  0  5월10 ?      00:00:00 /usr/lib/x86_64-linux-gnu/unity-lens-files/unity-files-daemon
+network   2214  1637  0  5월10 ?      00:00:00 /bin/sh -c /usr/lib/x86_64-linux-gnu/zeitgeist/zeitgeist-maybe-vacuum; /usr/bin/zeitgeist-daemon
+network   2224  2214  0  5월10 ?      00:00:00 /usr/bin/zeitgeist-daemon
+network   2231  1637  0  5월10 ?      00:00:00 /usr/lib/x86_64-linux-gnu/zeitgeist-fts
+network   2233  1637  0  5월10 ?      00:00:02 zeitgeist-datahub
+network   2322  1859  0  5월10 ?      00:00:03 update-notifier
+network   2340  1859  0  5월10 ?      00:00:00 /usr/lib/x86_64-linux-gnu/deja-dup/deja-dup-monitor
+network   2355  1637  0  5월10 ?      00:00:00 deja-dup --prompt
+root     11546     2  0  5월12 ?      00:00:02 [kworker/3:0]
+network  12033  1637  0  5월10 ?      00:00:00 /usr/lib/gvfs/gvfsd-metadata
+root     12347  1186  0  5월11 ?      00:00:00 sshd: cjm [priv]
+cjm      12349     1  0  5월11 ?      00:00:00 /lib/systemd/systemd --user
+cjm      12350 12349  0  5월11 ?      00:00:00 (sd-pam)
+cjm      12379 12347  0  5월11 ?      00:00:02 sshd: cjm@pts/21
+root     12380  1186  0  5월11 ?      00:00:00 sshd: cjm [priv]
+cjm      12406 12380  0  5월11 ?      00:00:00 sshd: cjm@notty
+cjm      12415 12406  0  5월11 ?      00:00:00 /usr/lib/openssh/sftp-server
+cjm      12416 12379  0  5월11 pts/21 00:00:00 -bash
+root     12644  1186  0  5월11 ?      00:00:00 sshd: cjm [priv]
+root     12649  1186  0  5월11 ?      00:00:00 sshd: cjm [priv]
+cjm      12672 12644  0  5월11 ?      00:00:03 sshd: cjm@pts/22
+cjm      12697 12649  0  5월11 ?      00:00:00 sshd: cjm@notty
+cjm      12698 12697  0  5월11 ?      00:00:00 /usr/lib/openssh/sftp-server
+cjm      12699 12672  0  5월11 pts/22 00:00:01 -bash
+network  12948  1637  0  5월10 ?      00:00:08 unity-control-center region
+network  12978  1637  0  5월10 ?      00:00:06 /usr/lib/x86_64-linux-gnu/unity/unity-panel-service --lockscreen-mode
+root     16135     1  0 07:36 ?        00:00:00 /usr/sbin/cups-browsed
+root     16138     2  0 07:36 ?        00:00:00 [kworker/3:1]
+root     19289     2  0 15:48 ?        00:00:00 [kworker/1:2]
+root     19328     2  0 16:01 ?        00:00:00 [kworker/1:0]
+root     19521     2  0 17:06 ?        00:00:00 [kworker/0:1]
+root     19562     2  0 17:19 ?        00:00:00 [kworker/2:2]
+cjm      19600 12416  0 17:29 pts/21   00:00:02 vi myShell.c
+root     19623     2  0 17:32 ?        00:00:00 [kworker/0:0]
+root     19632     2  0 17:36 ?        00:00:00 [kworker/u8:1]
+root     19744     2  0 17:45 ?        00:00:00 [kworker/2:1]
+root     19761     2  0 17:47 ?        00:00:00 [kworker/u8:0]
+root     19800     2  0 17:53 ?        00:00:00 [kworker/u8:2]
+cjm      19813 12699  0 17:55 pts/22   00:00:00 ps -ef

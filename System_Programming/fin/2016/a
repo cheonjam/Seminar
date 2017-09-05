@@ -1,0 +1,203 @@
+F   UID   PID  PPID PRI  NI    VSZ   RSS WCHAN  STAT TTY        TIME COMMAND
+4     0     1     0  20   0 120948  7064 -      Ss   ?          0:06 /sbin/init splash
+1     0     2     0  20   0      0     0 -      S    ?          0:00 [kthreadd]
+1     0     3     2  20   0      0     0 -      S    ?          0:00 [ksoftirqd/0]
+1     0     5     2   0 -20      0     0 -      S<   ?          0:00 [kworker/0:0H]
+1     0     7     2  20   0      0     0 -      S    ?          1:24 [rcu_sched]
+1     0     8     2  20   0      0     0 -      S    ?          0:00 [rcu_bh]
+1     0     9     2 -100  -      0     0 -      S    ?          0:00 [migration/0]
+5     0    10     2 -100  -      0     0 -      S    ?          0:00 [watchdog/0]
+5     0    11     2 -100  -      0     0 -      S    ?          0:00 [watchdog/1]
+1     0    12     2 -100  -      0     0 -      S    ?          0:00 [migration/1]
+1     0    13     2  20   0      0     0 -      S    ?          0:00 [ksoftirqd/1]
+1     0    15     2   0 -20      0     0 -      S<   ?          0:00 [kworker/1:0H]
+5     0    16     2 -100  -      0     0 -      S    ?          0:00 [watchdog/2]
+1     0    17     2 -100  -      0     0 -      S    ?          0:00 [migration/2]
+1     0    18     2  20   0      0     0 -      S    ?          0:00 [ksoftirqd/2]
+1     0    20     2   0 -20      0     0 -      S<   ?          0:00 [kworker/2:0H]
+5     0    21     2 -100  -      0     0 -      S    ?          0:00 [watchdog/3]
+1     0    22     2 -100  -      0     0 -      S    ?          0:00 [migration/3]
+1     0    23     2  20   0      0     0 -      S    ?          0:00 [ksoftirqd/3]
+1     0    25     2   0 -20      0     0 -      S<   ?          0:00 [kworker/3:0H]
+5     0    26     2  20   0      0     0 -      S    ?          0:00 [kdevtmpfs]
+1     0    27     2   0 -20      0     0 -      S<   ?          0:00 [netns]
+1     0    28     2   0 -20      0     0 -      S<   ?          0:00 [perf]
+1     0    29     2  20   0      0     0 -      S    ?          0:00 [khungtaskd]
+1     0    30     2   0 -20      0     0 -      S<   ?          0:00 [writeback]
+1     0    31     2  25   5      0     0 -      SN   ?          0:00 [ksmd]
+1     0    32     2  39  19      0     0 -      SN   ?          0:00 [khugepaged]
+1     0    33     2   0 -20      0     0 -      S<   ?          0:00 [crypto]
+1     0    34     2   0 -20      0     0 -      S<   ?          0:00 [kintegrityd]
+1     0    35     2   0 -20      0     0 -      S<   ?          0:00 [bioset]
+1     0    36     2   0 -20      0     0 -      S<   ?          0:00 [kblockd]
+1     0    37     2   0 -20      0     0 -      S<   ?          0:00 [ata_sff]
+1     0    38     2   0 -20      0     0 -      S<   ?          0:00 [md]
+1     0    39     2   0 -20      0     0 -      S<   ?          0:00 [devfreq_wq]
+1     0    45     2  20   0      0     0 -      S    ?          0:00 [kswapd0]
+1     0    46     2   0 -20      0     0 -      S<   ?          0:00 [vmstat]
+1     0    47     2  20   0      0     0 -      S    ?          0:00 [fsnotify_mark]
+1     0    48     2  20   0      0     0 -      S    ?          0:00 [ecryptfs-kthrea]
+1     0    64     2   0 -20      0     0 -      S<   ?          0:00 [kthrotld]
+1     0    65     2   0 -20      0     0 -      S<   ?          0:00 [acpi_thermal_pm]
+1     0    66     2   0 -20      0     0 -      S<   ?          0:00 [bioset]
+1     0    67     2   0 -20      0     0 -      S<   ?          0:00 [bioset]
+1     0    68     2   0 -20      0     0 -      S<   ?          0:00 [bioset]
+1     0    69     2   0 -20      0     0 -      S<   ?          0:00 [bioset]
+1     0    70     2   0 -20      0     0 -      S<   ?          0:00 [bioset]
+1     0    71     2   0 -20      0     0 -      S<   ?          0:00 [bioset]
+1     0    72     2   0 -20      0     0 -      S<   ?          0:00 [bioset]
+1     0    73     2   0 -20      0     0 -      S<   ?          0:00 [bioset]
+1     0    74     2  20   0      0     0 -      S    ?          0:00 [scsi_eh_0]
+1     0    75     2   0 -20      0     0 -      S<   ?          0:00 [scsi_tmf_0]
+1     0    76     2  20   0      0     0 -      S    ?          0:00 [scsi_eh_1]
+1     0    77     2   0 -20      0     0 -      S<   ?          0:00 [scsi_tmf_1]
+1     0    79     2  20   0      0     0 -      S    ?          0:00 [scsi_eh_2]
+1     0    80     2   0 -20      0     0 -      S<   ?          0:00 [scsi_tmf_2]
+1     0    81     2  20   0      0     0 -      S    ?          0:00 [scsi_eh_3]
+1     0    82     2   0 -20      0     0 -      S<   ?          0:00 [scsi_tmf_3]
+1     0    89     2   0 -20      0     0 -      S<   ?          0:00 [ipv6_addrconf]
+1     0   102     2   0 -20      0     0 -      S<   ?          0:00 [deferwq]
+1     0   103     2   0 -20      0     0 -      S<   ?          0:00 [charger_manager]
+1     0   107     2   0 -20      0     0 -      S<   ?          0:00 [bioset]
+1     0   148     2   0 -20      0     0 -      S<   ?          0:00 [kpsmoused]
+1     0   158     2   0 -20      0     0 -      S<   ?          0:00 [kdmflush]
+1     0   159     2   0 -20      0     0 -      S<   ?          0:00 [bioset]
+1     0   172     2   0 -20      0     0 -      S<   ?          0:00 [kworker/0:1H]
+1     0   189     2  20   0      0     0 -      S    ?          0:05 [jbd2/dm-0-8]
+1     0   190     2   0 -20      0     0 -      S<   ?          0:00 [ext4-rsv-conver]
+1     0   220     2  20   0      0     0 -      S    ?          0:00 [kauditd]
+4     0   235     1  20   0  35392  4680 -      Ss   ?          0:32 /lib/systemd/systemd-journald
+1     0   245     2   0 -20      0     0 -      S<   ?          0:02 [kworker/1:1H]
+4     0   257     1  20   0 102968  1568 -      Ss   ?          0:00 /sbin/lvmetad -f
+4     0   286     1  20   0  45296  4368 -      Ss   ?          0:00 /lib/systemd/systemd-udevd
+1     0   340     2   0 -20      0     0 -      S<   ?          0:00 [kworker/3:1H]
+1     0   370     2   0 -20      0     0 -      S<   ?          0:00 [kworker/2:1H]
+1     0   420     2   0 -20      0     0 -      S<   ?          0:00 [edac-poller]
+1     0   431     2 -51   -      0     0 -      S    ?          0:00 [irq/30-mei_me]
+1     0   489     2   0 -20      0     0 -      S<   ?          0:00 [kvm-irqfd-clean]
+1     0   536     2   0 -20      0     0 -      S<   ?          0:00 [led_workqueue]
+1     0   602     2   0 -20      0     0 -      S<   ?          0:00 [kdmflush]
+1     0   604     2   0 -20      0     0 -      S<   ?          0:00 [bioset]
+1     0   621     2   0 -20      0     0 -      S<   ?          0:00 [ext4-rsv-conver]
+4   100   709     1  20   0 102384  2540 -      Ssl  ?          0:00 /lib/systemd/systemd-timesyncd
+4     0   820     1  20   0 167716  8624 -      Ssl  ?          0:05 /usr/sbin/thermald --no-daemon --dbus-enable
+4     0   822     1  20   0 277684  6900 -      Ssl  ?          0:15 /usr/lib/accountsservice/accounts-daemon
+4   106   830     1  20   0  43740  4736 -      Ss   ?          0:03 /usr/bin/dbus-daemon --system --address=systemd: --nofork --nopidfile --systemd-activation
+4     0   866     1  20   0  30288  2936 -      Ss   ?          0:00 /usr/sbin/cron -f
+4     0   869     1  20   0  28636  3260 -      Ss   ?          0:00 /lib/systemd/systemd-logind
+4   104   871     1  20   0 256396  4224 -      Ssl  ?          0:14 /usr/sbin/rsyslogd -n
+0     0   876     1  20   0   4400  1264 -      Ss   ?          0:00 /usr/sbin/acpid
+4     0   878     1  20   0 337396  8532 -      Ssl  ?          0:00 /usr/sbin/ModemManager
+4   111   881     1  20   0  44920  3180 -      Ss   ?          0:04 avahi-daemon: running [network-41.local]
+4   109   902     1  20   0 374080 12336 -      Ssl  ?          0:00 /usr/bin/whoopsie -f
+4     0   912     1  20   0 450148 15644 -      Ssl  ?          0:00 /usr/sbin/NetworkManager --no-daemon
+5     0   970     1  20   0  19472   252 -      Ss   ?          0:04 /usr/sbin/irqbalance --pid=/var/run/irqbalance.pid
+4     0  1012     1  20   0 276648  6220 -      Ssl  ?          0:00 /usr/sbin/lightdm
+1   111  1067   881  20   0  44788   344 -      S    ?          0:00 avahi-daemon: chroot helper
+4     0  1077     1  20   0 278964 10048 -      Ssl  ?          0:03 /usr/lib/policykit-1/polkitd --no-debug
+4     0  1081  1012  20   0 396096 22044 -      Ssl+ tty7       0:07 /usr/lib/xorg/Xorg -core :0 -seat seat0 -auth /var/run/lightdm/root/:0 -nolisten tcp vt7 -novtswitch
+4     0  1188     1  20   0  65520  6452 -      Ss   ?          0:04 /usr/sbin/sshd -D
+4     0  1248     1  20   0  17220  1824 -      Ss+  tty1       0:00 /sbin/agetty --noclear tty1 linux
+1   122  1252     1  20   0  24112   460 -      S    ?          0:00 /usr/sbin/xrdp
+5     0  1254     1  20   0  36640   424 -      S    ?          0:00 /usr/sbin/xrdp-sesman
+4     0  1267  1012  20   0 226176  7380 -      Sl   ?          0:00 lightdm --session-child 16 19
+4   108  1271     1  20   0  45248  4652 -      Ss   ?          0:00 /lib/systemd/systemd --user
+5   108  1272  1271  20   0  63752  2332 -      S    ?          0:00 (sd-pam)
+4   108  1281  1267  20   0   4508   752 -      Ss   ?          0:00 /bin/sh /usr/lib/lightdm/lightdm-greeter-session /usr/sbin/unity-greeter
+1   108  1286     1  20   0  43028  3420 -      Ss   ?          0:00 /usr/bin/dbus-daemon --fork --print-pid 5 --print-address 7 --session
+0   108  1287  1281  20   0 963212 51196 -      Sl   ?          0:07 /usr/sbin/unity-greeter
+0   108  1293     1  20   0 338064  7740 -      Sl   ?          0:00 /usr/lib/at-spi2-core/at-spi-bus-launcher --launch-immediately
+0   108  1298  1293  20   0  42768  3444 -      S    ?          0:00 /usr/bin/dbus-daemon --config-file=/etc/at-spi2/accessibility.conf --nofork --print-address 3
+0   108  1300     1  20   0 206860  5456 -      Sl   ?          0:00 /usr/lib/at-spi2-core/at-spi2-registryd --use-gnome-session
+0   108  1306     1  20   0 275696  5740 -      Sl   ?          0:00 /usr/lib/gvfs/gvfsd
+0   108  1314     1  20   0 341324  7472 -      Sl   ?          0:00 /usr/lib/gvfs/gvfsd-fuse /run/user/108/gvfs -f -o big_writes
+0   108  1326     1  20   0 178532  4708 -      Sl   ?          0:00 /usr/lib/dconf/dconf-service
+5     0  1330     1  20   0 241284  6096 -      Ss   ?          0:01 /usr/sbin/nmbd -D
+5     0  1348     1  20   0 339200 16092 -      Ss   ?          0:01 /usr/sbin/smbd -D
+5     0  1354  1348  20   0 331088  5680 -      S    ?          0:00 /usr/sbin/smbd -D
+5     0  1356  1348  20   0 339200  7316 -      S    ?          0:00 /usr/sbin/smbd -D
+0     0  1358  1012  20   0  82708  5136 -      S    ?          0:00 lightdm --session-child 12 19
+0   108  1362     1  20   0  47240  4320 -      S    ?          0:00 upstart --user --startup-event indicator-services-start
+0   108  1364     1  20   0 580384 33544 -      Sl   ?          0:00 nm-applet
+0   108  1366  1362  20   0 356008  9812 -      Ssl  ?          0:00 /usr/lib/x86_64-linux-gnu/indicator-messages/indicator-messages-service
+0   108  1367  1362  20   0 334748  6500 -      Ssl  ?          0:00 /usr/lib/x86_64-linux-gnu/indicator-bluetooth/indicator-bluetooth-service
+0   108  1368  1362  20   0 422040  9916 -      Ssl  ?          0:00 /usr/lib/x86_64-linux-gnu/indicator-power/indicator-power-service
+0   108  1369  1362  20   0 459308 15516 -      Ssl  ?          0:01 /usr/lib/x86_64-linux-gnu/indicator-datetime/indicator-datetime-service
+0   108  1370  1362  20   0 559496 35828 -      Ssl  ?          0:08 /usr/lib/x86_64-linux-gnu/indicator-keyboard/indicator-keyboard-service --use-gtk
+0   108  1371  1362  20   0 664884 11376 -      Ssl  ?          0:00 /usr/lib/x86_64-linux-gnu/indicator-sound/indicator-sound-service
+0   108  1372  1362  20   0 626684  9356 -      Ssl  ?          0:00 /usr/lib/x86_64-linux-gnu/indicator-session/indicator-session-service
+0   108  1379  1362  20   0 395940 12716 -      Ssl  ?          0:00 /usr/lib/x86_64-linux-gnu/indicator-application/indicator-application-service
+0   108  1391     1  20   0 614564 26036 -      Sl   ?          0:01 /usr/lib/unity-settings-daemon/unity-settings-daemon
+1   108  1417     1   9 -11 417472 10540 -      S<l  ?          0:00 /usr/bin/pulseaudio --start --log-target=syslog
+4   118  1418     1  21   1 183544  2900 -      SNsl ?          0:01 /usr/lib/rtkit/rtkit-daemon
+4     0  1438     1  20   0 348436  9928 -      Ssl  ?          0:00 /usr/lib/upower/upowerd
+4   113  1470     1  20   0 302484 13028 -      Ssl  ?          0:00 /usr/lib/colord/colord
+5     0  4750  1348  20   0 342324 17660 -      S    ?          0:09 /usr/sbin/smbd -D
+5     0  7201  1348  20   0 345984 17160 -      S    ?          0:00 /usr/sbin/smbd -D
+4     0  8402  1188  20   0  97496  6928 -      Ss   ?          0:00 sshd: cjm [priv]
+4  1004  8404     1  20   0  45248  4676 ep_pol Ss   ?          0:00 /lib/systemd/systemd --user
+5  1004  8406  8404  20   0 145680  2364 -      S    ?          0:00 (sd-pam)
+4     0  8425  1188  20   0  97496  6916 -      Ss   ?          0:00 sshd: cjm [priv]
+5  1004  8437  8402  20   0  97496  5316 -      S    ?          0:01 sshd: cjm@pts/10
+5  1004  8462  8425  20   0  97496  3504 -      S    ?          0:00 sshd: cjm@notty
+0  1004  8463  8462  20   0  12884  2060 -      Ss   ?          0:00 /usr/lib/openssh/sftp-server
+0  1004  8464  8437  20   0  24148  5624 wait   Ss   pts/10     0:01 -bash
+4     0  8518  1188  20   0  97496  6900 -      Ss   ?          0:00 sshd: cjm [priv]
+4     0  8520  1188  20   0  97496  6912 -      Ss   ?          0:00 sshd: cjm [priv]
+5  1004  8546  8518  20   0  97496  5104 -      S    ?          0:06 sshd: cjm@pts/11
+5  1004  8573  8520  20   0  97496  3480 -      S    ?          0:00 sshd: cjm@notty
+0  1004  8574  8573  20   0  12884  2048 -      Ss   ?          0:00 /usr/lib/openssh/sftp-server
+0  1004  8575  8546  20   0  24040  5516 wait   Ss   pts/11     0:00 -bash
+4     0 19883     1  20   0 370708 25392 -      Ssl  ?          0:03 /usr/lib/snapd/snapd
+5     0 22341  1348  20   0 341700 16688 -      S    ?          0:00 /usr/sbin/smbd -D
+1     0 26931     2   0 -20      0     0 -      S<   ?          0:00 [xfsalloc]
+1     0 26932     2   0 -20      0     0 -      S<   ?          0:00 [xfs_mru_cache]
+1     0 26938     2  20   0      0     0 -      S    ?          0:00 [jfsIO]
+1     0 26939     2  20   0      0     0 -      S    ?          0:00 [jfsCommit]
+1     0 26940     2  20   0      0     0 -      S    ?          0:00 [jfsCommit]
+1     0 26941     2  20   0      0     0 -      S    ?          0:00 [jfsCommit]
+1     0 26942     2  20   0      0     0 -      S    ?          0:00 [jfsCommit]
+1     0 26943     2  20   0      0     0 -      S    ?          0:00 [jfsSync]
+1     0 26982     2   0 -20      0     0 -      S<   ?          0:00 [bioset]
+4     0 29320     1  20   0 274816  8824 -      Ssl  ?          0:00 /usr/sbin/cups-browsed
+1     0 29325     2  20   0      0     0 -      S    ?          0:00 [kworker/2:0]
+4     0 29832  1188  20   0  97584  7040 -      Ss   ?          0:00 sshd: yesblue [priv]
+4  1002 29834     1  20   0  45248  4656 -      Ss   ?          0:00 /lib/systemd/systemd --user
+5  1002 29835 29834  20   0 146492  3256 -      S    ?          0:00 (sd-pam)
+4     0 29853  1188  20   0  97496  6996 -      Ss   ?          0:00 sshd: yesblue [priv]
+5  1002 29907 29832  20   0  97584  5392 -      S    ?          0:00 sshd: yesblue@pts/8
+5  1002 29933 29853  20   0  97496  3480 -      S    ?          0:00 sshd: yesblue@notty
+0  1002 29934 29933  20   0  12884  2060 -      Ss   ?          0:00 /usr/lib/openssh/sftp-server
+0  1002 29935 29907  20   0  24016  5432 -      Ss+  pts/8      0:00 -bash
+4     0 30447  1188  20   0  97584  6840 -      Ss   ?          0:00 sshd: yesblue [priv]
+4     0 30449  1188  20   0  97496  6924 -      Ss   ?          0:00 sshd: yesblue [priv]
+5  1002 30476 30447  20   0  97584  5136 -      S    ?          0:01 sshd: yesblue@pts/9
+5  1002 30502 30449  20   0  97496  3416 -      S    ?          0:00 sshd: yesblue@notty
+0  1002 30503 30502  20   0  12884  2040 -      Ss   ?          0:00 /usr/lib/openssh/sftp-server
+0  1002 30504 30476  20   0  23992  5468 -      Ss   pts/9      0:00 -bash
+1     0 30835     2  20   0      0     0 -      S    ?          0:00 [kworker/0:2]
+1     0 31264     2  20   0      0     0 -      S    ?          0:00 [kworker/0:0]
+1     0 31560     2  20   0      0     0 -      S    ?          0:00 [kworker/1:1]
+1     0 31651     2  20   0      0     0 -      S    ?          0:00 [kworker/3:0]
+1     0 31654     2  20   0      0     0 -      S    ?          0:00 [kworker/u8:2]
+4     0 31715  1188  20   0  97496  7020 -      Ss   ?          0:00 sshd: yoni [priv]
+4  1003 31717     1  20   0  45248  4652 -      Ss   ?          0:00 /lib/systemd/systemd --user
+4     0 31718  1188  20   0  97496  7028 -      Ss   ?          0:00 sshd: yoni [priv]
+5  1003 31720 31717  20   0 146492  3256 -      S    ?          0:00 (sd-pam)
+5  1003 31791 31715  20   0  97496  5172 -      S    ?          0:00 sshd: yoni@pts/12
+5  1003 31817 31718  20   0  97496  3400 -      S    ?          0:00 sshd: yoni@notty
+0  1003 31818 31817  20   0  12884  2108 -      Ss   ?          0:00 /usr/lib/openssh/sftp-server
+0  1003 31819 31791  20   0  23960  5444 -      Ss   pts/12     0:00 -bash
+1     0 32216     2  20   0      0     0 -      S    ?          0:00 [kworker/u8:1]
+0  1002 32254 30504  20   0  55684  9104 -      S+   pts/9      0:00 vi 2.c
+1     0 32257     2  20   0      0     0 -      S    ?          0:00 [kworker/1:2]
+1     0 32297     2  20   0      0     0 -      S    ?          0:00 [kworker/3:1]
+1     0 32301     2  20   0      0     0 -      S    ?          0:00 [kworker/2:2]
+0  1004 32350  8575  20   0  55748  9080 poll_s S+   pts/11     0:00 vi 1.c
+0  1003 32380 31819  20   0  55828  9160 -      S+   pts/12     0:01 vi 2014_1.c
+1     0 32483     2  20   0      0     0 -      S    ?          0:00 [kworker/u8:0]
+4     0 32506  1188  20   0  96124  6572 -      Ss   ?          0:00 sshd: root [priv]
+5   121 32507 32506  20   0  66864  3236 -      S    ?          0:00 sshd: root [net]
+0  1004 32508  8464  20   0   4224   652 wait   S+   pts/10     0:00 ./a.out
+0  1004 32509 32508  20   0  30196  1448 -      R+   pts/10     0:00 ps -axl
+child exit : 0
